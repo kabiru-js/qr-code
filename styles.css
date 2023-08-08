@@ -1,0 +1,30 @@
+body{
+    background:#d5e1ef;
+    font-family: 'Outfit', sans-serif;
+    color: hsl(218, 44%, 22%);
+}
+    .container {
+        background-color: white;
+        border: 1px solid #ccc;
+        padding: 15px;
+        margin-right: auto; 
+    margin-left: auto;
+    margin-top: 150px; 
+    border-radius: 25px; 
+        margin: 50px auto;
+        max-width: 580px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.container h1{
+    font-size: 26px;
+padding: 12px;
+margin-top: 5px;   
+text-align: center; 
+}
+.container p{
+    color: hsl(220, 15%, 55%);
+    text-align: center; 
+    
+    font-size: 18px; 
+
+}
